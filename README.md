@@ -19,3 +19,6 @@ differences of 0 because I didn't want the zeros pulling the average later on.).
 Second, I put together the weather description names for the EMS call dates and put them together with the severity code differences from the EMS file. Third, I gave corresponding ratings to each weather description. Fourth, I used the EMS call dates file and the weather file to give the EMS call dates the correspondingweather rating. After, I condensed the weather rating with the corresponding severity codes into an average severity code difference per rating. Then, I graphed a scatter plot based on those averages as the y values and the weather ratings as the x values.
 
 My conclusion is that in general, inclement weather has very little effect on the behavior of the caller to exaggerate, since the graph shows little correlation between weather condition rating and exaggeration. However, the weather condition of 12 which is squalls (A squall is often named for the weather phenomenon that accompanies it, such as rain, hail, or thunder - Britannica.com)seems to have the expected very high correlation, so maybe exaggeration occurs more with that type of inclement weather.
+
+![image](https://user-images.githubusercontent.com/59946519/129798399-c25075d2-7092-4973-bf74-591255be0d2c.png)
+
